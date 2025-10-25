@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">Passionate about software architecture, I specialize mainly in Java-based technologies. Proficient in architecting scalable and efficient solutions.</h3>
 
-- 🌱 I’m currently learning **cloud**
+- 🌱 I’m currently learning **cloud** and **gen ai".
 
 - 💬 Ask me about **java, jakarta ee, spring**
 
